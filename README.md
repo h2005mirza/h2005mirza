@@ -1,13 +1,1 @@
-- 👋 Hi, I’m @h2005mirza
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning IT Automation with Python 
-- 💞️ I’m looking to get in touch and learn the Art of Data Science 
-- 📫 How to reach me ...
-- 😄 Pronouns: He 
-- ⚡ Fun fact: ...
-- I possess a natural talent for design, so I am also pursuing the art of Graphic Design. 
-
-<!---
-h2005mirza/h2005mirza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+An innovative person with unorthodox problem-solving and solution designing methods that set me apart from typical developers and designers. Passionate about data science, aeronautics, business and finance with a natural talent for art and design. Currently learning UX design to integrate it with data science to create wonders. Beginner in Python and SQL. A student who loves philosophy, history, religion and theology, and psychology. Plans to integrate these fields to create innovative data and design solutions for business, finance and aeronautics. My multidisciplinary approach towards different problems sets me apart from the typical point of view. 
