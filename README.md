@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan Mirza</h1>
-<h3 align="center">I am a student who has a hunger for knowledge and skill. I have a knack for design, data science, working on combining both fields to create innovative solution. I am a person who uses an interdisciplinary approach to solve problems for the users. I combine design, AI, philosophy, psychology, business, epistemology, religion, education, and history. I am a free thinker. What sets me apart from other people is that I design and develop what the user wants, not what they need. And my interdisciplinary approach helps me here. I also apply critical and abstract thinking in developing my ideas. Let's connect to change the world.</h3>
+<h3 align="center">I am a student who has a hunger for knowledge and skill. I have a knack for design, data science, and working on combining both fields to create innovative solution. I am a person who uses an interdisciplinary approach to solve problems for the users. I combine design, AI, philosophy, psychology, business, epistemology, religion, education, and history. I am a free thinker. What sets me apart from other people is that I design and develop what the user wants, not what they need. And my interdisciplinary approach helps me here. I also apply critical and abstract thinking in developing my ideas. Let's connect to change the world.</h3>
 
-- 🔭 I’m currently working on **EduAtlas**
+- 🔭 I’m currently working on **EduAtlas, Tikitas Coffee.**
 
-- 🌱 I’m currently learning **Python for Everybody Specialisation (University of Michigan), UX Design Professional Certificate (Google).**
+- 🌱 I have done specialisations like: **Python for Everybody Specialisation (University of Michigan), UX Design Professional Certificate (Google), Digital Marketing (Google), Understanding Research Methods (University of London), Academic English: Writing Specialisation (University of California, Irvine).**
 
-- 👯 I’m looking to collaborate on **design, data science.**
+- 👯 I’m looking to collaborate on **design, data science, AI, philosophy, education, psychology.**
 
 - 🤝 I’m looking for help with **data science, AI.**
 
